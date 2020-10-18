@@ -9,3 +9,5 @@
 | `y` | Copy selection |
 | `p` | Paste selection after cursor |
 | `P` | Paste selection before cursor |
+| `$` | Move cursor to end of line |
+| `0` | Move cursor to begin of line |
