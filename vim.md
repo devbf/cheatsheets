@@ -12,3 +12,4 @@
 | `$` | Move cursor to end of line |
 | `0` | Move cursor to begin of line |
 | `daw` | Delete current word |
+| `dd` | Delete current line |
