@@ -25,6 +25,8 @@
 
 # Miscellaneous
 
+| | Description |
+|:-:|:-|
 | `viw` | Select word under cursor |
 | `u` | Undo change |
 
