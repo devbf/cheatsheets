@@ -13,3 +13,7 @@
 | `0` | Move cursor to begin of line |
 | `daw` | Delete current word |
 | `dd` | Delete current line |
+| `u` | Undo change |
+| `x` | Delete characters under cursor |
+| `r` | Replace character under cursor with another character |
+| `R` | Replace characters instead of inserting them |
