@@ -29,4 +29,6 @@
 |:-:|:-|
 | `viw` | Select word under cursor |
 | `u` | Undo change |
+| `i` | Insert cursor before character highlighted by cursor |
+| `a` | Insert cursor after character highlighted by cursor |
 
