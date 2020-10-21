@@ -23,7 +23,7 @@
 | `r` | Replace character under cursor with another character |
 | `R` | Replace characters instead of inserting them |
 
-# Miscellaneous
+# Miscellaneous resp. not yet sorted
 
 | | Description |
 |:-:|:-|
@@ -31,4 +31,5 @@
 | `u` | Undo change |
 | `i` | Insert cursor before character highlighted by cursor |
 | `a` | Insert cursor after character highlighted by cursor |
+| `>` | Indent selected block |
 
