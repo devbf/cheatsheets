@@ -17,6 +17,7 @@
 | `dd` | Delete current line |
 | `d` | Cut selection |
 | `y` | Copy selection |
+| `yyp` | Duplicate current line  |
 | `p` | Paste selection after cursor |
 | `P` | Paste selection before cursor |
 | `x` | Delete characters under cursor |
